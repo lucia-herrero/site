@@ -1,19 +1,47 @@
+
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Lucia Herrero"
+format: html
+editor: visual
+
+about: 
+  template: trestles
+  image: img/headshot.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:luciaherrero@psu.edu
+      
+    - icon: github
+      text: Github
+      href: https://github.com/lucia-herrero
+      
+    - icon: flower2
+      text: OSF
+      href: https://osf.io/8wx7e
 ---
 
-:::{#me}
+## Welcome!
 
-## Goals
+I am an NIMH Diversity Supplement Scholar using a multi-method approach to investigate the neurodevelopment of emotion regulation. Particularly, I am interested in understanding how environmental, intergenerational, and sociocultural risk and protective factors influence emotion regulation development.  
 
-## Education
+### Education
 
-## Experience
+**The Pennsylvania State University** 
+Doctoral Candidate in *Developmental Psychology* and *Social and Behavioral Neuroscience* \| Anticipated 2029 
 
-:::
+**Stanford University** 
+Bachelor of Arts in *Archaeology* \| 2015 
 
-Thanks for checking out my web site!
+### Current Projects
+
+**[Cognition, Affect, and Temperament Lab](https://www.catlabpsu.com/)** \ 
+PI: Koraly Pérez-Edgar, Ph.D. \| Fall 2023 - Present 
+
+[Healthy Brain and Child Development](https://heal.nih.gov/research/infants-and-children/healthy-brain#:~:text=Research%20Spotlights,Predict%20Health%20Later%20in%20Life%3F) \(U01 DA055361)\ 
+EEG & MRI Data Collection\ 
+
+[Parent Child Anxiety Transmission](https://www.catlabpsu.com/research#PCAT) \(R01 MH130007)\ 
+Disruptive Behavior: Diagnostic Observation Schedule \(DB:DOS) Behavioral Coding 
+
+
