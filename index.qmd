@@ -7,6 +7,7 @@ editor: visual
 about: 
   template: trestles
   image: img/headshot.jpg
+  image-shape: round 
   links: 
     - icon: envelope
       text: Email
@@ -45,6 +46,6 @@ PI: Koraly Pérez-Edgar, Ph.D. \| Fall 2023 - Present
 EEG & MRI Data Collection\
 
 [Parent Child Anxiety Transmission](https://www.catlabpsu.com/research#PCAT) \(R01 MH130007)\
-Disruptive Behavior: Diagnostic Observation Schedule \(DB:DOS) Behavioral Coding 
+Disruptive Behavior Diagnostic Observation Schedule \(DBDOS) Behavioral Coding 
 
 

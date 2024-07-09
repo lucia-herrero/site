@@ -1,11 +1,24 @@
+---
+format: html
+editor: visual
+css: styles.css
+---
+
+![](img/momo.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right"}
+
+### About Me 
+
+My name is Lucia Herrero, and I am a second-year graduate student in the Cognition, Affect and Temperament Lab at Penn State University. I am pursuing a Dual-Title doctoral degree in Developmental Psychology and Social and Behavioral Neuroscience.
+
+
 
 I am a multidisciplinary scholar. 
 I am the first in my extended family to receive a degree from a four. I am now the first to pursue doctoral studies. 
 
 
-At Stanford University, I was interested in .
+At Stanford University, I was interested in . After five years in the museum world, 
 
-I am now
+
 
 
 
