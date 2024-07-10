@@ -1,7 +1,6 @@
 ---
 format: html
 editor: visual
-css: styles.css
 ---
 ### About Me 
 
@@ -13,7 +12,7 @@ As a first-gen college graduate and second-gen Mexican-American, I am committed 
 In my free time, I enjoy being in nature, reading, and trying new foods and recipes. I am absolutely obsessed with my shiba, Momo 🐾
 
 
-
-![](img/momo.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right"}
+ 
+![](img/momo.jpg){width=80%}
 
 

@@ -6,7 +6,7 @@ toc: true
 
 ### Current Work
 
-![ Conceptual Model of Dyadic Social Dynamics as a Mechanism for Parent-Child Anxiety Transmission](img/concept_model.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right"}
+![ Conceptual Model of Dyadic Social Dynamics as a Mechanism for Parent-Child Anxiety Transmission](img/pcat_conceptual_model.png){width=80%}
 
 Through the NIMH Diversity Supplement, I am investigating the moment-to-moment dyadic social dynamics between parents and children that potentiate risk for anxiety transmission. I am interested in the bi-directional, transactional nature of these interactions, and particularly, how children might support anxious parents during stressful tasks. I aim to
 understand how neural \(fNIRS), physiological \(RSA), and behavioral responses across the dyad converge, diverge, and cascade over the course of an interaction and how these varying levels of synchrony predict anxiety.
