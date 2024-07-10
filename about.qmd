@@ -4,7 +4,7 @@ editor: visual
 ---
 ### About Me 
 
-![](img/momo.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right" width=45%}
+![](img/momo.jpg){style="float: right; top: 0px; padding: 20px" fig-align="right" width=50%}
 
 
 My name is Lucia Herrero, and I am a second-year graduate student in the Cognition, Affect and Temperament Lab at Penn State University. I am pursuing a Dual-Title doctoral degree in Developmental Psychology and Social and Behavioral Neuroscience.
