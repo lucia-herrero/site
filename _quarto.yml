@@ -4,9 +4,9 @@ project:
   
 website:
   title: "Lucia Herrero"
-  favicon: "img/lh_logo.jpg"
+  #favicon: "img/lh_logo.jpg"
   navbar:
-    logo: "img/lh_logo.jpg"
+    #logo: "img/lh_logo.jpg"
     right:
       - href: index.qmd
         text: Home
