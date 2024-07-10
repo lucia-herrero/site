@@ -4,7 +4,9 @@ project:
   
 website:
   title: "Lucia Herrero"
+  favicon: "img/lh_logo.jpg"
   navbar:
+    logo: "img/lh_logo.jpg"
     right:
       - href: index.qmd
         text: Home
@@ -15,7 +17,7 @@ website:
       - href: cv.qmd
         text: CV 
 
-
+   
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Lucia Herrero"
