@@ -4,9 +4,7 @@ project:
   
 website:
   title: "Lucia Herrero"
-  favicon: "img/shibi_4.png"
   navbar:
-    logo: "img/shibi_4.png"
     right:
       - href: index.qmd
         text: Home

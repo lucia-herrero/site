@@ -3,8 +3,20 @@ format: html
 editor: visual
 toc: true 
 ---
+### Interests
 
-### Current Work
+Neurodevelopment of emotion regulation; intergenerational psychopathology risk; sociocultural resilience; Latine mental health; developmental social, cognitive, and affective neuroscience \(DSCAN) 
+
+### In Progress
+
+**[Cognition, Affect, and Temperament Lab](https://www.catlabpsu.com/)**
+PI: Koraly Pérez-Edgar, Ph.D. \| Fall 2023 - Present 
+
+[Healthy Brain and Child Development](https://heal.nih.gov/research/infants-and-children/healthy-brain#:~:text=Research%20Spotlights,Predict%20Health%20Later%20in%20Life%3F) \(U01 DA055361)\
+EEG & MRI Data Collection\
+
+[Parent Child Anxiety Transmission](https://www.catlabpsu.com/research#PCAT) \(R01 MH130007)\
+Disruptive Behavior Diagnostic Observation Schedule \(DBDOS) Behavioral Coding 
 
 ![ Conceptual Model of Dyadic Social Dynamics as a Mechanism for Parent-Child Anxiety Transmission](img/pcat_conceptual_model.png){width=80%}
 
@@ -12,12 +24,6 @@ Through the NIMH Diversity Supplement (R01 MH130007, PIs: K. Pérez-Edgar and S.
 
 
 In support of this work, I lead a behavioral observation coding team. With members of the CAT Lab, I developed a behavioral coding protocol specific to the Disruptive Behavior Diagnostic Observation Schedule (DBDOS) to evaluate affect, verbal and non-verbal interactions, parent emotion socialization strategies, and child responses to parent negative behavior. This protocol is currently being implemented to process pilot (R56 MH130007) and main study (R01 MH130007) DBDOS behavioral data.  
-
-
-
-### Interests
-
-Neurodevelopment of emotion regulation; intergenerational psychopathology risk; sociocultural resilience; Latine mental health; developmental social, cognitive, and affective neuroscience \(DSCAN) 
 
 
 ### Publications
